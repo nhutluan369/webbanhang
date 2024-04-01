@@ -28,10 +28,9 @@
     <div id="wrapper">
 
         <!-- Sidebar -->
-
-        <?php require_once('sidebar.php'); ?>
-
+        <?php require('sidebar.php'); ?>
         <!-- End of Sidebar -->
+
         <!-- Content Wrapper -->
         <div id="content-wrapper" class="d-flex flex-column">
 
@@ -41,6 +40,6 @@
                 <!-- Topbar -->
                 <?php require('topbar.php'); ?>
                 <!-- End of Topbar -->
-                <!-- Begin Page Content -->
+                                <!-- Begin Page Content -->
                 <div class="container-fluid">
-        
+

@@ -1,8 +1,7 @@
 <?php
 require('includes/header.php');
+
 ?>
-
-
 
 
                     <!-- Page Heading -->
@@ -332,9 +331,7 @@ require('includes/header.php');
 
 
 
- 
 
-
-<?
-require('includes/footer.php');
+<?php
+require('includes/footer.php')
 ?>

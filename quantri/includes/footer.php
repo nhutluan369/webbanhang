@@ -1,6 +1,7 @@
-                </div>
+</div>
                 <!-- /.container-fluid -->
-           </div>
+
+</div>
             <!-- End of Main Content -->
 
             <!-- Footer -->
@@ -14,7 +15,8 @@
             <!-- End of Footer -->
 
         </div>
-        <!-- End of Content Wrapper -->  
+        <!-- End of Content Wrapper -->
+
     </div>
     <!-- End of Page Wrapper -->
 
